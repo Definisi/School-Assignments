@@ -4,8 +4,8 @@ Repository ini berisi tugas-tugas sekolah dalam bentuk kode Python.
 
 ## Daftar Isi
 
-1. [Tugas 1 - Program Konversi Satuan Barang: Lusin, Kodi, dan Gross ](tugas_1/)
-2. [Tugas 2 - Deteksi Bilangan Ganjil atau Genap](tugas_2/)
+1. [Tugas 1 - Program Konversi Satuan Barang: Lusin, Kodi, dan Gross ](tugas/PakToyib.py)
+2. [Tugas 2 - Deteksi Bilangan Ganjil atau Genap](tugas/PakToyib2.py)
 
 ## Cara Penggunaan
 
